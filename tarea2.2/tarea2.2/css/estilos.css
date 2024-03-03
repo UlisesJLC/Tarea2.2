@@ -1,0 +1,10 @@
+﻿body {
+}
+
+
+.contenedor{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    width:80%;
+}
